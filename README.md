@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Tosin Philip OLUYEMI
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Mathematics.
-- 🌱 I’m currently learning Machine Learning with Octave and Python.
-- 💞️ I’m looking to collaborate on AI projects.
-- 📫 You can reach me on WhatsApp: +2349032946686; twitter: @dr_oluyemi
+Certified Data Scientist with interest in Education and Engineering.
+
+I am a Datacamp superstar with expertise in Data Analysis, Model Development and Business communication.
 
 <!---
 TosinPhillip/TosinPhillip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
