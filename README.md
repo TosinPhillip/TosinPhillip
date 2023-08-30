@@ -1,4 +1,4 @@
-Certified Data Scientist with interest in Education and Engineering.
+# Certified Data Scientist with interest in Education and Engineering.
 
 I am a Datacamp superstar with expertise in Data Analysis, Model Development and Business communication.
 
